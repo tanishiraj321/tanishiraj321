@@ -47,13 +47,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishiraj321&show_icons=true&theme=tokyonight&cache_seconds=3600" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tanishiraj321&show_icons=true&theme=tokyonight" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=tanishiraj321&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishiraj321&layout=compact&theme=tokyonight&cache_seconds=3600" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanishiraj321&layout=compact&theme=tokyonight" />
 
 </div>
+
 
 ---
 
