@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 About Me:
- CS student at VIT Vellore with a strong foundation in Python, JavaScript, React, C/C++, and SQL. I’m passionate about full-stack development, scalable systems, and solving real problems through code.
+ CS student at VIT Vellore with a strong foundation in Python,Java, JavaScript, React, C/C++, and SQL. I’m passionate about full-stack development, scalable systems, and solving real problems through code.==
 ---
 
 ## 🌐 Socials:
@@ -46,18 +46,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishiraj321&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=tanishiraj321&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishiraj321&layout=compact&theme=tokyonight" />
-
-</div>
+📊 GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishiraj321&show_icons=true&theme=tokyonight" /> <img height="170" src="https://streak-stats.demolab.com?user=tanishiraj321&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishiraj321&layout=compact&theme=tokyonight" /> </div>
 
 ---
 
