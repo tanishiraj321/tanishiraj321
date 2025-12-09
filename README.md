@@ -3,12 +3,9 @@
 ---
 
 ## 🧑‍💻 About Me:
- CS student at VIT Vellore with a strong foundation in Python,Java, JavaScript, React, C/C++, and SQL. I’m passionate about full-stack development, scalable systems, and solving real problems through code.==
+ CS student at VIT Vellore with a strong foundation in Python,Java, JavaScript, React, C/C++, and SQL. I’m passionate about full-stack development, scalable systems, and solving real problems through code.
 ---
-
-## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/tanishi-raj-76b033322/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanishi-raj-76b033322/)
 
 ---
 
@@ -46,8 +43,17 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishiraj321&show_icons=true&theme=tokyonight" /> <img height="170" src="https://streak-stats.demolab.com?user=tanishiraj321&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishiraj321&layout=compact&theme=tokyonight" /> </div>
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishiraj321&show_icons=true&theme=tokyonight&cache_seconds=3600" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=tanishiraj321&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishiraj321&layout=compact&theme=tokyonight&cache_seconds=3600" />
+
+</div>
 
 ---
 
