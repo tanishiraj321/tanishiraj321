@@ -37,17 +37,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats:
 
-<div align="center">
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishiraj321&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishiraj321&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanishiraj321&theme=tokyonight&utcOffset=5.5" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishiraj321&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=tanishiraj321&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=tanishiraj321&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tanishiraj321&layout=compact&theme=tokyonight" />
-
-</div>
 
 
 ---
